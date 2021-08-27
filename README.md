@@ -40,10 +40,55 @@ The first half of this is alone reason enough to condemn the whole set of questi
 
 "Who cares? If you are successful, what difference will it make?"
 
-Here we put "cares" as the criterion by which some unnamed authority is to judge our work, along with "making a difference".  But this is wrong. We should be aiming to provide *benefit* to some real person, and end user.  This seems pedantic.  
+This, if taken at face value, is ok.  
 
+"What are the risks?"
 
+One problem of this question is that it ignores the risk of inaction.  If we look at the global benefits of a project the most useful projects will address the problems which we cannot afford not to solve.  Only evaluating the downside risk of action but not inaction biases away from innovation and risk taking, and again this is clearly illustrated in the low risk low innovation work which dominates applied physics.
 
+"How much will it cost?"
+
+This assumes that the cost is always positive, and that our work does not generate posivitive value by itself.  "Cost" refers to money, and this also centers money in the evaluation which leads to "solutions" which ignore the possibility of systems, benefits, and costs outside of money.  Again, inaction is the most expensive course of action in our current case, and the non-financial cost of this path is ignored in existing research frameworks.
+
+"How long will it take?"
+
+Again, this question biases against innovation and high risk research be demanding unrealistic expectations in terms of how predictable outcomes will be, and biases against anything open ended.
+
+"What are the mid-term and final “exams” to check for success?"
+
+Yet another question which can only be realistically answered for work which is highly predictable.  
+
+###  The Failed Framework
+
+Beyond the failure of the actual questions to give good results in terms of applied physics research since the 60's, there is a deeper flaw in this system.  It assumes that researchers are always doing research using money doled out by some funding agent.  It assumes that research needs money, provides no direct benefit(it produces knowledge which someone else uses for benefit), and that some outside authority will ultimately decide what research is done. 
+
+We reject this.  We do research with a global goal in mind, which will be stated below.  We aim to do our work where we are.  We will do it in our living rooms, in our schools, in our work places, in our public libraries, and in any other existing institution we find around us.  Our method is simply to state our goals, find projects which move us toward those goals which provide enough benefit that our community will materially support them, and simply do them without asking for permission.
+
+### Trash Applied Research
+
+Our goal is to build the Trash Magic Complete Set.  This is a collection of technologies which, together:
+
+ - provide for all the material elements of a high quality of life for every single member of our physical community with no restrictions or money of any kind
+ - require no materials of any kind which are sourced from outside our immediate physical environment(no mining, no long distance supply chains, only trash, dirty water, natural materials, and ambient energy)
+ - contain all the information required to replicate themselves to any other community globally
+
+In Trash Magic research we are not applying for grants, we are choosing what to work on.  We still pitch ideas, but we are pitching to get people to participate, rather than invest(even if the person we pitch is an investor or program manager).  Consuming or using our goods and technologies is included in "participation".  
+
+### Trash Magic Questions
+
+ - What are you working on? 
+ - Who are you?
+ - Why are you working on this?
+ - What personal benefit do you get from doing this project?
+ - How does this work bring us closer to the Full Set?
+ - What materials does it require now?
+ - What is the path to replace all those with local materials(trash debt)?
+ - What materials does this project remove from the waste stream?
+ - How does this project directly improve the material conditions of our local community?
+ - What is the model by which this project can be materially self-sustaining?
+ - How does this project replicate itself?
+ - What skills are needed for this project?
+ - How does this work fit into existing institutions, groups and people?
 
 
 
