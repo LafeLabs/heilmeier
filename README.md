@@ -88,6 +88,7 @@ In Trash Magic research we are not applying for grants, we are choosing what to 
  - What is the model by which this project can be materially self-sustaining?
  - How does this project replicate itself?
  - What skills are needed for this project?
+ - What is the path of the thing your are building after its planned current use(what will happen after it dies)?
  - How does this work fit into existing institutions, groups and people?
  - What problems do you need other people to solve in order to help with this project?
  - How can this project help other people do their research?
