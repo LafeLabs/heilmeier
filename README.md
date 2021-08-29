@@ -93,5 +93,7 @@ In Trash Magic research we are not applying for grants, we are choosing what to 
  - What problems do you need other people to solve in order to help with this project?
  - How can this project help other people do their research?
 
+![trashmagicquestions](https://user-images.githubusercontent.com/71990322/131235448-24c81979-8118-4339-8c78-2190456466c7.jpg)
+
 
 
